@@ -1,0 +1,18 @@
+
+input[type=button]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+
+}
+
+.aaa{
+    background-color: #BABDBF;
+}
+
+label{
+    font-size:18px;
+    vertical-align: middle;
+}
